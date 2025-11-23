@@ -2,9 +2,9 @@
 
 The program asks the user for several types of words (adjectives, nouns, verbs) and then generates a funny, random short story based on the user’s input
 
---
-# Example Story Output
 
+# Example Story Output
+```
 Enter an adjective (description): small
 Enter a noun (person, place or thing): cat
 Enter an adjective (description): sleepy
@@ -18,8 +18,10 @@ In that place I saw a cat.
 The cat was sleepy and purring.
 I was happy!
 
---
-**kdni**  
-My first GitHub project!
+```
+
+- kdni  
+- My first GitHub project!
+
 
 
